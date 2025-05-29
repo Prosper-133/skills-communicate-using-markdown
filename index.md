@@ -27,3 +27,8 @@ Markdown is a lightweight syntax for communicating on github
 ~~~ python
 my_list = [1,2,3,4,5]
 ~~~
+
+#### Another code example
+``` javascript
+var myVar = "Hello, world!";
+```
