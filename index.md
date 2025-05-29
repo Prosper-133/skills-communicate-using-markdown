@@ -32,3 +32,11 @@ my_list = [1,2,3,4,5]
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+### Adding a task list
+
+- [x] Start markdown tutorial
+- [x] Create a pull request
+- [x] Add an image
+- [x] Add a code block
+- [ ] Add a task list
